@@ -1,0 +1,7 @@
+null;18;Amazon;Amsterdam
+user1;17;Google;London
+user2;18;Google;London
+user3;21;Uber;New York
+user4;22;Amazon;Amsterdam
+user5;21;work;Amsterdam
+user6;21;Amazon;address

@@ -1,0 +1,7 @@
+1;user1;20;hob1,hob2,hob3
+2;user2;22;hob4,hob3
+3;user3;20;hob1,hob5
+4;user4;21;hob4
+5;user5;20;hob5,hob4
+6;user6;20;hob6,hob7
+7;user7;21;hob8,hob2
